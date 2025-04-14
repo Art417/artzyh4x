@@ -2,7 +2,7 @@
 
 ![Gacha Card Preview](assets/preview.gif)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://www.facebook.com/ArtZyH4X/)
 [![GitHub Followers](https://img.shields.io/github/followers/artzyh4x?label=GitHub&style=social)](https://github.com/artzyh4x)
 
 ---
